@@ -1,0 +1,11 @@
+x=10
+y=12.2
+z="hello"
+print(x)
+print(y)
+print(z)
+print(type(x))
+print(type(y))
+print(type(z))
+x=y*x
+print(x)

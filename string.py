@@ -1,0 +1,5 @@
+print("hi wahid ali")
+print('hi wahid ali ')
+print("'hi wahid ali how are'")
+print('s')
+print("s")

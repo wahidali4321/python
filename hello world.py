@@ -1,0 +1,5 @@
+print("hello world ")
+print(33+22)
+print(11+11)
+print(33*2)
+print(1+44)

@@ -1,6 +1,2 @@
-while True:
-    print("enter the number")
-    number=str(input())
-    if number == 3:
-        break
-        print("it's correct")
+a = [1,2,3,4,5]
+print(a)

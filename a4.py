@@ -1,6 +1,2 @@
-while True:
-    print("enter your name : ")
-    name = input()
-    if name == 'wahid':
-        print('thank you ')
-        break
+a = [11,22,33,44,55,66]
+print(a[1])

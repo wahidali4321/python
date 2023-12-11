@@ -1,4 +1,2 @@
-total = 0
-for num in range(10):
-    total = total + num
-    print(total)
+spam = ['cat', 'bat', 'rat', 'elephant']
+print(spam[:1])

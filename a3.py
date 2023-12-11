@@ -1,6 +1,2 @@
-while True:
-    print("enter your name ? ")
-    name = input()
-    if name == 'wahid ali':
-        print("thank you!")
-        break
+a = [1,'cat','hello','hello world',1.1]
+print(a)

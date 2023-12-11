@@ -1,8 +1,2 @@
-while True:
-    print('enter your number you want to show')
-    numbe = str(input())
-    if numbe == 3:
-        print("it's correct")
-        print('thank you')
-        break
-
+a = [11,22,33,44,55,66,77,88]
+print(a[1:3])

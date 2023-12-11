@@ -1,7 +1,2 @@
-while True:
-    print("enter the float number")
-    abc = input()
-    if float(abc) == 3.1:
-        print("it's correct!")
-        print("thank you")
-        break
+a = [11,22,33,44,55,66,77,88,99]
+print(a[2:4])

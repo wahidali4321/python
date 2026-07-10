@@ -1,2 +1,3 @@
-a = [1,2,3,4,5]
-print(a)
+number = 222 ;
+if number > 22:
+    print("the number is greater than 22")

@@ -1,2 +1,2 @@
-a = ['cat','bat','kat','dog']
-print(a)
+x = range(10)
+print(x)
